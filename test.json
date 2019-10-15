@@ -1,0 +1,90 @@
+{
+    "svgs": [
+        "<svgxmlns=\"http://www.w3.org/2000/svg\"xmlns:xlink=\"http://www.w3.org/1999/xlink\"width=\"816\"height=\"1056\"viewBox=\"00612792\"></svg>"
+    ],
+    "styles": {
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "letterSpacing": 2,
+        "color": "#333"
+    },
+    "pages": [
+        {
+            "file": "projects/S0912/S0912_1563244039780_1.svg",
+            "id": "page_1563244041921_21",
+            "elements": {
+                "text_1563246837383_764": {
+                    "tag": "text",
+                    "id": "text_1563246837383_764",
+                    "parentId": "iframe_page_1563244041921_21",
+                    "w": "auto",
+                    "h": "auto",
+                    "x": 195.25503590931763,
+                    "y": 310.8272920342452,
+                    "text": "settlementName",
+                    "styles": {
+                        "fontSize": 9,
+                        "letterSpacing": 1
+                    }
+                },
+                "text_1563246882903_942": {
+                    "tag": "text",
+                    "id": "text_1563246882903_942",
+                    "parentId": "iframe_page_1563244041921_21",
+                    "w": "auto",
+                    "h": "auto",
+                    "x": 214.76119265676093,
+                    "y": 343.47541612152366,
+                    "text": "name",
+                    "styles": {
+                        "fontSize": 11,
+                        "letterSpacing": 1
+                    }
+                },
+                "text_1563246906906_221": {
+                    "tag": "text",
+                    "id": "text_1563246906906_221",
+                    "parentId": "iframe_page_1563244041921_21",
+                    "w": "auto",
+                    "h": "auto",
+                    "x": 222.65029816419087,
+                    "y": 411.2987927449004,
+                    "text": "agreement_string",
+                    "styles": {
+                        "fontSize": 11,
+                        "letterSpacing": 1
+                    }
+                },
+                "styles": {}
+            }
+        }
+    ],
+    "query": [
+        {
+            "phone_area": "828",
+            "phone_prefix": "612",
+            "phone_suffix": "9197",
+            "filed": "04/01/201907:47am",
+            "userId": "5c2c3f950345b743e8d463ca",
+            "claimID": "5d1d0454502aa40af41e4905",
+            "settlementName": "SebastianGonzalezv.TCRSportsBroadcastingHolding,etal.",
+            "settlementID": "S0912",
+            "fname": "Donavon",
+            "lname": "Kirby",
+            "email": "drkirby@charter.net",
+            "agreement_string": "12/24/201808:20am",
+            "source": "https://clarence.ai/?cai",
+            "signupId": "6420507",
+            "signup": "07/03/201912:39pm",
+            "name": "DonavonKirby",
+            "address_street": "979AdventCh.Rd.",
+            "address_city": "Granitefalls",
+            "address_state": "Northcarolina",
+            "address_zip": "28630",
+            "address_state_fips": 37,
+            "address_state_abbr": "NC",
+            "address_zipcode": "28630",
+            "address_county": "Caldwell"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "ckelsey-lambda-svg2pdf",
+    "version": "1.1.2",
+    "description": "AWS Lambda function to convert SVG to PDF",
+    "dependencies": {
+        "@serverless-chrome/lambda": "^1.0.0-55",
+        "chrome-launcher": "^0.11.1",
+        "gm": "^1.23.1",
+        "image-downloader": "^3.4.2",
+        "js-base64": "^2.5.1",
+        "puppeteer-core": "^1.18.1",
+        "superagent": "^5.1.0",
+        "tar": "^4.4.10",
+        "url": "^0.11.0"
+    },
+    "devDependencies": {
+        "aws-sdk": "^2.494.0",
+        "babel-cli": "^6.26.0",
+        "babel-preset-env": "^1.7.0",
+        "eslint": "^6.0.1",
+        "eslint-config-google": "^0.13.0",
+        "gulp": "^4.0.2",
+        "serverless-hooks-plugin": "^1.1.0",
+        "serverless-plugin-chrome": "^1.0.0-55"
+    }
+}
